@@ -11,6 +11,8 @@ public class ExampleClass : MonoBehaviour {
     }
 }
 
+////
+
 
 using UnityEngine;
 using System.Collections;
@@ -21,5 +23,29 @@ public class MouseClick : MonoBehaviour
     {
         rigidbody.AddForce(-transform.forward * 500f);
         rigidbody.useGravity = true;
+    }
+}
+
+
+////
+
+The corresponding OnMouseOver function is called while the mouse stays over the object and OnMouseExit is called when it moves away.
+
+using UnityEngine;
+using System.Collections;
+
+public class ExampleClass : MonoBehaviour {
+    public Renderer rend;
+    void Start() {
+        rend = GetComponent<Renderer>();
+    }
+    void OnMouseEnter() {
+        rend.material.color = Color.red;
+    }
+    void OnMouseOver() {
+        rend.material.color -= new Color(0.1F, 0, 0) * Time.deltaTime;
+    }
+    void OnMouseExit() {
+        rend.material.color = Color.white;
     }
 }
