@@ -1,0 +1,70 @@
+			// SECUENCIA DE INICIO	
+
+	//// Posicion Inicial
+	delay(1000); //delay for 1 second
+ssc32u.println("#0 P1400 S300");
+	delay(1000); //delay for 1 second
+ssc32u.println("#1 P1800 S300");
+	delay(1000); //delay for 1 second
+ssc32u.println("#2 P1400 S300");
+	delay(1000); //delay for 1 second
+ssc32u.println("#3 P1500 S300");
+	delay(1000); //delay for 1 second
+ssc32u.println("#4 P1500 S300");
+
+	//// Derecha
+	delay(1000); //delay for 1 second
+ssc32u.println("#0 P2000 S300");
+	delay(1000); //delay for 1 second
+ssc32u.println("#1 P3000 S300");
+	delay(1000); //delay for 1 second
+ssc32u.println("#2 P2400 S300");
+	delay(1000); //delay for 1 second
+ssc32u.println("#3 P2400 S300");
+	delay(1000); //delay for 1 second
+ssc32u.println("#4 P500 S300");
+
+	//// Izquierda
+	delay(1000); //delay for 1 second
+ssc32u.println("#0 P500 S300");
+	delay(1000); //delay for 1 second
+ssc32u.println("#1 P1000 S300");
+	delay(1000); //delay for 1 second
+ssc32u.println("#2 P500 S300");
+	delay(1000); //delay for 1 second
+ssc32u.println("#3 P500 S300");
+	delay(1000); //delay for 1 second
+
+	//// Posicion Inicial
+	delay(1000); //delay for 1 second
+ssc32u.println("#0 P1400 S300");
+	delay(1000); //delay for 1 second
+ssc32u.println("#1 P1800 S300");
+	delay(1000); //delay for 1 second
+ssc32u.println("#2 P1400 S300");
+	delay(1000); //delay for 1 second
+ssc32u.println("#3 P1500 S300");
+	delay(1000); //delay for 1 second
+ssc32u.println("#4 P1600 S300");
+
+	delay(1000); //delay for 1 second
+ssc32u.println("#3 P500 S1000");
+	delay(1000); //delay for 1 second
+ssc32u.println("#3 P1500 S1000");
+	delay(1000); //delay for 1 second
+ssc32u.println("#3 P500 S1000");
+ssc32u.println("#2 P1400 S1000");
+	delay(1000); //delay for 1 second
+ssc32u.println("#3 P1500 S1000");
+	delay(1000); //delay for 1 second
+ssc32u.println("#2 P2000 S1000");
+	delay(1000); //delay for 1 second
+ssc32u.println("#3 P500 S1000");
+ssc32u.println("#2 P2000 S1000");
+	delay(1000); //delay for 1 second
+ssc32u.println("#3 P1500 S1000");
+ssc32u.println("#2 P1400 S1000");
+	delay(1000); //delay for 1 second
+ssc32u.println("#3 P500 S1000");
+	delay(1000); //delay for 1 second
+ssc32u.println("#3 P1500 S1000");

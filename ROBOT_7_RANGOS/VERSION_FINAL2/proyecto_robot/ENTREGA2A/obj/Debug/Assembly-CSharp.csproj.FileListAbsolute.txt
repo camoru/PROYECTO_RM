@@ -1,0 +1,160 @@
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\robot\proyecto_robot\robot ricardo\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\robot\proyecto_robot\robot ricardo\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\robot\proyecto_robot\robot ricardo\Temp\bin\Debug\nunit.framework.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\robot\proyecto_robot\robot ricardo\Temp\bin\Debug\UnityEditor.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\robot\proyecto_robot\robot ricardo\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\robot\proyecto_robot\robot ricardo\Temp\bin\Debug\UnityEngine.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\robot\proyecto_robot\robot ricardo\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\robot\proyecto_robot\robot ricardo\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\robot\proyecto_robot\robot ricardo\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\robot\proyecto_robot\robot ricardo\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\robot\proyecto_robot\robot ricardo\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\robot\proyecto_robot\robot ricardo\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\robot\proyecto_robot\robot ricardo\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\robot\proyecto_robot\robot ricardo\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\robot\proyecto_robot\robot ricardo\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\robot\proyecto_robot\robot ricardo\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\robot\proyecto_robot\robot ricardo\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\robot\proyecto_robot\robot ricardo\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\robot\proyecto_robot\robot ricardo\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\robot\proyecto_robot\robot ricardo\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\robot\proyecto_robot\robot ricardo\Temp\bin\Debug\UnityEngine.xml
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\robot\proyecto_robot\robot ricardo\Temp\bin\Debug\UnityEditor.xml
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\robot\proyecto_robot\robot ricardo\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\robot\proyecto_robot\robot ricardo\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\robot\proyecto_robot\robot ricardo\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\robot\proyecto_robot\robot ricardo\Temp\bin\Debug\nunit.framework.xml
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\robot\proyecto_robot\robot ricardo\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\robot\proyecto_robot\robot ricardo\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\robot\proyecto_robot\robot ricardo\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\robot\proyecto_robot\robot ricardo\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\robot\proyecto_robot\robot ricardo\obj\Debug\Assembly-CSharp.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\robot\proyecto_robot\robot ricardo\obj\Debug\Assembly-CSharp.pdb
+E:\VERSION_FINAL\proyecto_robot\VERSION2\Temp\bin\Debug\Assembly-CSharp.dll
+E:\VERSION_FINAL\proyecto_robot\VERSION2\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\VERSION_FINAL\proyecto_robot\VERSION2\Temp\bin\Debug\nunit.framework.dll
+E:\VERSION_FINAL\proyecto_robot\VERSION2\Temp\bin\Debug\UnityEditor.dll
+E:\VERSION_FINAL\proyecto_robot\VERSION2\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\VERSION_FINAL\proyecto_robot\VERSION2\Temp\bin\Debug\UnityEngine.dll
+E:\VERSION_FINAL\proyecto_robot\VERSION2\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\VERSION_FINAL\proyecto_robot\VERSION2\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\VERSION_FINAL\proyecto_robot\VERSION2\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\VERSION_FINAL\proyecto_robot\VERSION2\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\VERSION_FINAL\proyecto_robot\VERSION2\Temp\bin\Debug\UnityEngine.UI.dll
+E:\VERSION_FINAL\proyecto_robot\VERSION2\Temp\bin\Debug\Mono.Cecil.dll
+E:\VERSION_FINAL\proyecto_robot\VERSION2\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\VERSION_FINAL\proyecto_robot\VERSION2\Temp\bin\Debug\Unity.DataContract.dll
+E:\VERSION_FINAL\proyecto_robot\VERSION2\Temp\bin\Debug\ExCSS.Unity.dll
+E:\VERSION_FINAL\proyecto_robot\VERSION2\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\VERSION_FINAL\proyecto_robot\VERSION2\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\VERSION_FINAL\proyecto_robot\VERSION2\Temp\bin\Debug\Unity.CecilTools.dll
+E:\VERSION_FINAL\proyecto_robot\VERSION2\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\VERSION_FINAL\proyecto_robot\VERSION2\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\VERSION_FINAL\proyecto_robot\VERSION2\Temp\bin\Debug\UnityEngine.xml
+E:\VERSION_FINAL\proyecto_robot\VERSION2\Temp\bin\Debug\UnityEditor.xml
+E:\VERSION_FINAL\proyecto_robot\VERSION2\Temp\bin\Debug\UnityEngine.UI.xml
+E:\VERSION_FINAL\proyecto_robot\VERSION2\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\VERSION_FINAL\proyecto_robot\VERSION2\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\VERSION_FINAL\proyecto_robot\VERSION2\Temp\bin\Debug\nunit.framework.xml
+E:\VERSION_FINAL\proyecto_robot\VERSION2\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\VERSION_FINAL\proyecto_robot\VERSION2\Temp\bin\Debug\UnityEngine.Analytics.xml
+E:\VERSION_FINAL\proyecto_robot\VERSION2\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\VERSION_FINAL\proyecto_robot\VERSION2\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\VERSION_FINAL\proyecto_robot\VERSION2\obj\Debug\Assembly-CSharp.dll
+E:\VERSION_FINAL\proyecto_robot\VERSION2\obj\Debug\Assembly-CSharp.pdb
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\VERSION_FINAL\proyecto_robot\ENTREGA\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\VERSION_FINAL\proyecto_robot\ENTREGA\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\VERSION_FINAL\proyecto_robot\ENTREGA\Temp\bin\Debug\nunit.framework.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\VERSION_FINAL\proyecto_robot\ENTREGA\Temp\bin\Debug\UnityEditor.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\VERSION_FINAL\proyecto_robot\ENTREGA\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\VERSION_FINAL\proyecto_robot\ENTREGA\Temp\bin\Debug\UnityEngine.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\VERSION_FINAL\proyecto_robot\ENTREGA\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\VERSION_FINAL\proyecto_robot\ENTREGA\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\VERSION_FINAL\proyecto_robot\ENTREGA\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\VERSION_FINAL\proyecto_robot\ENTREGA\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\VERSION_FINAL\proyecto_robot\ENTREGA\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\VERSION_FINAL\proyecto_robot\ENTREGA\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\VERSION_FINAL\proyecto_robot\ENTREGA\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\VERSION_FINAL\proyecto_robot\ENTREGA\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\VERSION_FINAL\proyecto_robot\ENTREGA\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\VERSION_FINAL\proyecto_robot\ENTREGA\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\VERSION_FINAL\proyecto_robot\ENTREGA\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\VERSION_FINAL\proyecto_robot\ENTREGA\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\VERSION_FINAL\proyecto_robot\ENTREGA\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\VERSION_FINAL\proyecto_robot\ENTREGA\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\VERSION_FINAL\proyecto_robot\ENTREGA\Temp\bin\Debug\UnityEngine.xml
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\VERSION_FINAL\proyecto_robot\ENTREGA\Temp\bin\Debug\UnityEditor.xml
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\VERSION_FINAL\proyecto_robot\ENTREGA\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\VERSION_FINAL\proyecto_robot\ENTREGA\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\VERSION_FINAL\proyecto_robot\ENTREGA\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\VERSION_FINAL\proyecto_robot\ENTREGA\Temp\bin\Debug\nunit.framework.xml
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\VERSION_FINAL\proyecto_robot\ENTREGA\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\VERSION_FINAL\proyecto_robot\ENTREGA\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\VERSION_FINAL\proyecto_robot\ENTREGA\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\VERSION_FINAL\proyecto_robot\ENTREGA\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\VERSION_FINAL\proyecto_robot\ENTREGA\obj\Debug\Assembly-CSharp.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\VERSION_FINAL\proyecto_robot\ENTREGA\obj\Debug\Assembly-CSharp.pdb
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\Ampliación2\VERSION_FINAL2\proyecto_robot\ENTREGA2A\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\Ampliación2\VERSION_FINAL2\proyecto_robot\ENTREGA2A\obj\Debug\Assembly-CSharp.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\Ampliación2\VERSION_FINAL2\proyecto_robot\ENTREGA2A\obj\Debug\Assembly-CSharp.pdb
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\Ampliación2\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\Ampliación2\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\Ampliación2\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\nunit.framework.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\Ampliación2\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\UnityEditor.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\Ampliación2\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\Ampliación2\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\UnityEngine.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\Ampliación2\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\Ampliación2\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\Ampliación2\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\Ampliación2\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\Ampliación2\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\Ampliación2\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\Ampliación2\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\Ampliación2\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\Ampliación2\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\Ampliación2\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\Ampliación2\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\Ampliación2\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\Ampliación2\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\Ampliación2\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\Ampliación2\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\UnityEngine.xml
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\Ampliación2\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\UnityEditor.xml
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\Ampliación2\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\Ampliación2\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\Ampliación2\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\Ampliación2\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\nunit.framework.xml
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\Ampliación2\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\Ampliación2\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\puky8\Downloads\VIII SEMESTRE\ROBÓTICA MEDICA\1ENTREGA\Ampliación2\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\unicauca\VIII\Robótica Médica\diseño robot\ARCHIVOS_REPOSITORIO\PROYECTO_RM\ROBOT_7_RANGOS\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\Assembly-CSharp.dll
+C:\unicauca\VIII\Robótica Médica\diseño robot\ARCHIVOS_REPOSITORIO\PROYECTO_RM\ROBOT_7_RANGOS\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\unicauca\VIII\Robótica Médica\diseño robot\ARCHIVOS_REPOSITORIO\PROYECTO_RM\ROBOT_7_RANGOS\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\nunit.framework.dll
+C:\unicauca\VIII\Robótica Médica\diseño robot\ARCHIVOS_REPOSITORIO\PROYECTO_RM\ROBOT_7_RANGOS\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\UnityEditor.dll
+C:\unicauca\VIII\Robótica Médica\diseño robot\ARCHIVOS_REPOSITORIO\PROYECTO_RM\ROBOT_7_RANGOS\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\unicauca\VIII\Robótica Médica\diseño robot\ARCHIVOS_REPOSITORIO\PROYECTO_RM\ROBOT_7_RANGOS\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\UnityEngine.dll
+C:\unicauca\VIII\Robótica Médica\diseño robot\ARCHIVOS_REPOSITORIO\PROYECTO_RM\ROBOT_7_RANGOS\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\unicauca\VIII\Robótica Médica\diseño robot\ARCHIVOS_REPOSITORIO\PROYECTO_RM\ROBOT_7_RANGOS\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\unicauca\VIII\Robótica Médica\diseño robot\ARCHIVOS_REPOSITORIO\PROYECTO_RM\ROBOT_7_RANGOS\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\unicauca\VIII\Robótica Médica\diseño robot\ARCHIVOS_REPOSITORIO\PROYECTO_RM\ROBOT_7_RANGOS\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\unicauca\VIII\Robótica Médica\diseño robot\ARCHIVOS_REPOSITORIO\PROYECTO_RM\ROBOT_7_RANGOS\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\UnityEngine.UI.dll
+C:\unicauca\VIII\Robótica Médica\diseño robot\ARCHIVOS_REPOSITORIO\PROYECTO_RM\ROBOT_7_RANGOS\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\Mono.Cecil.dll
+C:\unicauca\VIII\Robótica Médica\diseño robot\ARCHIVOS_REPOSITORIO\PROYECTO_RM\ROBOT_7_RANGOS\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\unicauca\VIII\Robótica Médica\diseño robot\ARCHIVOS_REPOSITORIO\PROYECTO_RM\ROBOT_7_RANGOS\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\Unity.DataContract.dll
+C:\unicauca\VIII\Robótica Médica\diseño robot\ARCHIVOS_REPOSITORIO\PROYECTO_RM\ROBOT_7_RANGOS\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\ExCSS.Unity.dll
+C:\unicauca\VIII\Robótica Médica\diseño robot\ARCHIVOS_REPOSITORIO\PROYECTO_RM\ROBOT_7_RANGOS\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\unicauca\VIII\Robótica Médica\diseño robot\ARCHIVOS_REPOSITORIO\PROYECTO_RM\ROBOT_7_RANGOS\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\unicauca\VIII\Robótica Médica\diseño robot\ARCHIVOS_REPOSITORIO\PROYECTO_RM\ROBOT_7_RANGOS\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\Unity.CecilTools.dll
+C:\unicauca\VIII\Robótica Médica\diseño robot\ARCHIVOS_REPOSITORIO\PROYECTO_RM\ROBOT_7_RANGOS\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\unicauca\VIII\Robótica Médica\diseño robot\ARCHIVOS_REPOSITORIO\PROYECTO_RM\ROBOT_7_RANGOS\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\unicauca\VIII\Robótica Médica\diseño robot\ARCHIVOS_REPOSITORIO\PROYECTO_RM\ROBOT_7_RANGOS\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\UnityEngine.xml
+C:\unicauca\VIII\Robótica Médica\diseño robot\ARCHIVOS_REPOSITORIO\PROYECTO_RM\ROBOT_7_RANGOS\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\UnityEditor.xml
+C:\unicauca\VIII\Robótica Médica\diseño robot\ARCHIVOS_REPOSITORIO\PROYECTO_RM\ROBOT_7_RANGOS\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\UnityEngine.UI.xml
+C:\unicauca\VIII\Robótica Médica\diseño robot\ARCHIVOS_REPOSITORIO\PROYECTO_RM\ROBOT_7_RANGOS\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\unicauca\VIII\Robótica Médica\diseño robot\ARCHIVOS_REPOSITORIO\PROYECTO_RM\ROBOT_7_RANGOS\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\unicauca\VIII\Robótica Médica\diseño robot\ARCHIVOS_REPOSITORIO\PROYECTO_RM\ROBOT_7_RANGOS\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\nunit.framework.xml
+C:\unicauca\VIII\Robótica Médica\diseño robot\ARCHIVOS_REPOSITORIO\PROYECTO_RM\ROBOT_7_RANGOS\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\unicauca\VIII\Robótica Médica\diseño robot\ARCHIVOS_REPOSITORIO\PROYECTO_RM\ROBOT_7_RANGOS\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\unicauca\VIII\Robótica Médica\diseño robot\ARCHIVOS_REPOSITORIO\PROYECTO_RM\ROBOT_7_RANGOS\VERSION_FINAL2\proyecto_robot\ENTREGA2A\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\unicauca\VIII\Robótica Médica\diseño robot\ARCHIVOS_REPOSITORIO\PROYECTO_RM\ROBOT_7_RANGOS\VERSION_FINAL2\proyecto_robot\ENTREGA2A\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\unicauca\VIII\Robótica Médica\diseño robot\ARCHIVOS_REPOSITORIO\PROYECTO_RM\ROBOT_7_RANGOS\VERSION_FINAL2\proyecto_robot\ENTREGA2A\obj\Debug\Assembly-CSharp.dll
+C:\unicauca\VIII\Robótica Médica\diseño robot\ARCHIVOS_REPOSITORIO\PROYECTO_RM\ROBOT_7_RANGOS\VERSION_FINAL2\proyecto_robot\ENTREGA2A\obj\Debug\Assembly-CSharp.pdb
